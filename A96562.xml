@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation whereas we have been informed, that a false, scandalous and traiterous libel, intituled, An Inquiry into the causes of the miscarriage of the Scotch-Colony at Darien, or, An answer to a libel, intituled, A defense of the Scots abdicating Darien, has been printed and dispersed, the design of which libel was to create a misunderstanding between our subjects of England and Scotland ...</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96562</idno>
+            <idno type="STC">Wing W2447</idno>
+            <idno type="STC">ESTC R43951</idno>
+            <idno type="EEBO-CITATION">42476400</idno>
+            <idno type="OCLC">ocm 42476400</idno>
+            <idno type="VID">151455</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151455)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2259:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation whereas we have been informed, that a false, scandalous and traiterous libel, intituled, An Inquiry into the causes of the miscarriage of the Scotch-Colony at Darien, or, An answer to a libel, intituled, A defense of the Scots abdicating Darien, has been printed and dispersed, the design of which libel was to create a misunderstanding between our subjects of England and Scotland ...</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, and the Executrix of Thomas Newcomb, deceas'd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699 [i.e. 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at Our Court at Kensington, the Twenty ninth Day of January, 1699. In the eleventh Year of Our Reign."</note>
+                  <note>A response to An enquiry into the causes of the miscarriage of the Scots colony at Darien ..., attributed to George Ridpath; which itself is a response to A defense of the Scots abdicating Darien, by Walter Harris.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ridpath, George, d. 1726. --  Enquiry into the causes of the miscarriage of the Scots colony at Darien.</term>
+               <term>Harris, Walter, 17th/18th cent. --  Defense of the Scots abdicating Darien.</term>
+               <term>New Caledonia (Colony)</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:151455:1"/>
+            <!-- PDF PAGE 52 -->
+            <head>By the King, A PROCLAMATION.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas We have beén Informed, That a Falſe, Scandalous and Trai<g ref="char:EOLhyphen"/>terous Libel, Intituled, <hi>An Inquiry into the Cauſes of the Miſcarriage of the <hi>Scotch</hi>-Colony at <hi>Darien,</hi> or, An Anſwer to a Libel, Intituled, A Defence of the <hi>Scots</hi> Abdicating <hi>Darien,</hi>
+               </hi> has beén Printed and Diſperſed, the Deſign of which Libel was to Create a Miſunderſtanding betweén Our good Subjects of <hi>England</hi> and <hi>Scotland,</hi> and to Stir up Sedition and Rebellion, and is Injurious to, and Reflects on the Honour of both Nations: And whereas the Knights, Citizens and Burgeſſes in Parliament Aſſem<g ref="char:EOLhyphen"/>bled, have humbly beſought Vs, to Iſſue Our Royal Proclamation for Diſcovering and Apprehending of the Author and Printer of the ſaid Libel; We therefore (with the Advice of Our Privy Council) have thought fit to Iſſue this Our Royal Proclamation, hereby Requi<g ref="char:EOLhyphen"/>ring and Commanding all Our Loving Subjects whatſoever, to Diſ<g ref="char:EOLhyphen"/>cover and Apprehend the Author and Printer of the ſaid Libel, to the end they may be dealt withal and proceéded againſt according to Law. And we do hereby Promiſe and Declare, That who<g ref="char:EOLhyphen"/>ſoever ſhall Diſcover or Apprehend the Author of the ſaid Libel, ſo as he may be brought to Iu<g ref="char:EOLhyphen"/>ſtice, ſhall have and Receive, as a Reward for ſuch Diſcovery and Apprehending, the Sum of Five hundred Pounds: And that whoſoever ſhall Diſcover or Apprehend the Printer thereof, ſo as he may be brought to Iuſtice, ſhall Have and Receive, as a Reward for ſuch Diſcovery or Apprehending, the Sum of Two hundred Pounds; Which ſaid reſpective Sums of Five hun<g ref="char:EOLhyphen"/>dred Pounds and Two hundred Pounds, the Commiſſioners of Our Treaſury are hereby Re<g ref="char:EOLhyphen"/>quired and Directed to Pay accordingly. And We do hereby further Promiſe and Declare, That if any Perſon (other than the Author himſelf) who was any ways Privy to, or Inſtrumental in the Printing and Diſperſing the ſaid Libel, ſhall Diſcover or Apprehend the Author thereof, the Perſon making ſuch Diſcovery, or Apprehending the ſaid Author, ſhall not only have the ſaid Sum of Five hundred Pounds, as aforeſaid, but alſo Our Gracious Pardon for his Offence. And We do hereby ſtrictly Charge and Command all Our Loving Subjects (as they will anſwer the contrary at their Perils) that they do not any ways Conceal, but Diſcover and Apprehend the Author and Printer of the ſaid Libel, to the end they may be Proceéded againſt with the ut<g ref="char:EOLhyphen"/>moſt Severity according to Law.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Kenſington,</hi>
+                  </hi> 
+                  <date>
+                     <hi>the Twenty ninth Day of <hi>January,</hi> 1699. In the Eleventh Year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1699.</p>
+            <pb facs="tcp:151455:2"/>
+            <!-- PDF PAGE 53 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:151455:3"/>
+            <!-- PDF PAGE 54 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
